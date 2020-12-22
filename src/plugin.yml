@@ -1,0 +1,36 @@
+name: TestPlugin
+version: 1.0.0
+author: MaxxDoShark
+description: A fantastic plugin!
+main: com.maxx.testplugin.Main
+
+commands:
+  heal:
+    description: Heal Yourself!
+  number:
+    description: Numbers!
+  t:
+    description: Set the time!
+  armor:
+    description: Spawn a blank armor stand to your position!
+  sz:
+    description: spawn zombie
+  armor1:
+    description: Spawn a leather armor stand to your position!
+  armor2:
+    description: Spawn a iron armor stand to your position
+  armor3:
+    description: Spawn a gold armor stand to your position!
+  armor4:
+    description: Spawn a diamond armor stand to your position!
+  armorhelp:
+    description: Get the plugin help page!
+  armor5:
+    description: Get a sitting armor stand!
+  armor6:
+    description: Get a waving armor stand!
+  armor7:
+    description: Get a guard stand
+  armor8:
+    description: Get a floating armor stand!
+
